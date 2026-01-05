@@ -10,9 +10,11 @@ A local web based interface that you can use to cycle through, edit and then sav
 <img src="images/image1.png" alt="Editing interface" height="500">
 <p>Chat Dataset Editor</p>
 
-## Required Format
+<br>
 
-Your csv file must have the following columns:
+## Required csv file format
+
+Please ensure that your csv file has the following columns:
 - id
 - question
 - answer
