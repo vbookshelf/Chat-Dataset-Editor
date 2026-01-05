@@ -9,3 +9,18 @@ A local web based interface that you can use to cycle through, edit and then sav
 
 <img src="images/image1.png" alt="Editing interface" height="500">
 <p>Chat Dataset Editor</p>
+
+## Required Format
+
+Your csv file must have the following columns:
+- id
+- question
+- answer
+
+## How to run this app
+
+- Download the project folder
+- Place it on your desktop
+- Double click the chat-dataset-editor.html file. The app will open  in your browser.
+- Optional: Adjust the page zoom (Mac: command + or command -)
+- Drag and drop your csv file
