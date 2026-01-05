@@ -8,7 +8,7 @@ A local web based interface that you can use to cycle through, edit and then sav
 <br>
 
 <img src="images/image1.png" alt="Editing interface" height="500">
-<p>Chat Dataset Editor</p>
+<p>The text in each field can be edited</p>
 
 <br>
 
